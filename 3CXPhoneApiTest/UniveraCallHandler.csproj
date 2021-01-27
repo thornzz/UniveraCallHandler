@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <Reference Include="MyPhoneCRMIntegration, Version=12.0.6.12, Culture=neutral, PublicKeyToken=bac47dd19dc4098a">
-      <HintPath>MyPhoneCRMIntegration.dll</HintPath>
+      <HintPath>..\..\..\..\..\ProgramData\3CXPhone for Windows\PhoneApp\MyPhoneCRMIntegration.dll</HintPath>
     </Reference>
   </ItemGroup>
 

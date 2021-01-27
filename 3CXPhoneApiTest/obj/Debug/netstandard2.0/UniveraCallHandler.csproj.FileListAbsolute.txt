@@ -20,3 +20,14 @@ D:\Dumpy\repos\3CXPhoneApiTest\3CXPhoneApiTest\obj\Debug\netstandard2.0\UniveraC
 D:\Dumpy\repos\3CXPhoneApiTest\3CXPhoneApiTest\obj\Debug\netstandard2.0\UniveraCallHandler.csproj.CopyComplete
 D:\Dumpy\repos\3CXPhoneApiTest\3CXPhoneApiTest\obj\Debug\netstandard2.0\UniveraCallHandler.dll
 D:\Dumpy\repos\3CXPhoneApiTest\3CXPhoneApiTest\obj\Debug\netstandard2.0\UniveraCallHandler.pdb
+C:\Users\MONSTER\RiderProjects\UniveraCallHandler\3CXPhoneApiTest\bin\Debug\netstandard2.0\UniveraCallHandler.deps.json
+C:\Users\MONSTER\RiderProjects\UniveraCallHandler\3CXPhoneApiTest\bin\Debug\netstandard2.0\UniveraCallHandler.dll
+C:\Users\MONSTER\RiderProjects\UniveraCallHandler\3CXPhoneApiTest\bin\Debug\netstandard2.0\UniveraCallHandler.pdb
+C:\Users\MONSTER\RiderProjects\UniveraCallHandler\3CXPhoneApiTest\bin\Debug\netstandard2.0\MyPhoneCRMIntegration.dll
+C:\Users\MONSTER\RiderProjects\UniveraCallHandler\3CXPhoneApiTest\obj\Debug\netstandard2.0\UniveraCallHandler.csprojAssemblyReference.cache
+C:\Users\MONSTER\RiderProjects\UniveraCallHandler\3CXPhoneApiTest\obj\Debug\netstandard2.0\UniveraCallHandler.AssemblyInfoInputs.cache
+C:\Users\MONSTER\RiderProjects\UniveraCallHandler\3CXPhoneApiTest\obj\Debug\netstandard2.0\UniveraCallHandler.AssemblyInfo.cs
+C:\Users\MONSTER\RiderProjects\UniveraCallHandler\3CXPhoneApiTest\obj\Debug\netstandard2.0\UniveraCallHandler.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\RiderProjects\UniveraCallHandler\3CXPhoneApiTest\obj\Debug\netstandard2.0\UniveraCallHandler.csproj.CopyComplete
+C:\Users\MONSTER\RiderProjects\UniveraCallHandler\3CXPhoneApiTest\obj\Debug\netstandard2.0\UniveraCallHandler.dll
+C:\Users\MONSTER\RiderProjects\UniveraCallHandler\3CXPhoneApiTest\obj\Debug\netstandard2.0\UniveraCallHandler.pdb
