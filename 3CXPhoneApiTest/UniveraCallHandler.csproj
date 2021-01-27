@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>_UniveraCallHandler</RootNamespace>
+    <AssemblyName>UniveraCallHandler</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MyPhoneCRMIntegration, Version=12.0.6.12, Culture=neutral, PublicKeyToken=bac47dd19dc4098a">
+      <HintPath>MyPhoneCRMIntegration.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

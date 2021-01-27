@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CEl9xelGxgR40pUpDrRkolFxIRJT4pl9GimZ1k7IhPc/yacRL2ut/jA/nj8wtYnY2KMoLTSRmOHbXzQ4Po+uOg==",
+  "success": true,
+  "projectFilePath": "D:\\Dumpy\\repos\\3CXPhoneApiTest\\3CXPhoneApiTest\\UniveraCallHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

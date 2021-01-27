@@ -1,0 +1,10 @@
+C:\Users\thorn\source\repos\3CXPhoneApiTest\3CXPhoneApiTest\bin\Debug\netstandard2.0\3CXPhoneApiTest.deps.json
+C:\Users\thorn\source\repos\3CXPhoneApiTest\3CXPhoneApiTest\bin\Debug\netstandard2.0\3CXPhoneApiTest.dll
+C:\Users\thorn\source\repos\3CXPhoneApiTest\3CXPhoneApiTest\bin\Debug\netstandard2.0\3CXPhoneApiTest.pdb
+C:\Users\thorn\source\repos\3CXPhoneApiTest\3CXPhoneApiTest\bin\Debug\netstandard2.0\MyPhoneCRMIntegration.dll
+C:\Users\thorn\source\repos\3CXPhoneApiTest\3CXPhoneApiTest\obj\Debug\netstandard2.0\3CXPhoneApiTest.csproj.CoreCompileInputs.cache
+C:\Users\thorn\source\repos\3CXPhoneApiTest\3CXPhoneApiTest\obj\Debug\netstandard2.0\3CXPhoneApiTest.AssemblyInfoInputs.cache
+C:\Users\thorn\source\repos\3CXPhoneApiTest\3CXPhoneApiTest\obj\Debug\netstandard2.0\3CXPhoneApiTest.AssemblyInfo.cs
+C:\Users\thorn\source\repos\3CXPhoneApiTest\3CXPhoneApiTest\obj\Debug\netstandard2.0\3CXPhoneApiTest.csproj.CopyComplete
+C:\Users\thorn\source\repos\3CXPhoneApiTest\3CXPhoneApiTest\obj\Debug\netstandard2.0\3CXPhoneApiTest.dll
+C:\Users\thorn\source\repos\3CXPhoneApiTest\3CXPhoneApiTest\obj\Debug\netstandard2.0\3CXPhoneApiTest.pdb
